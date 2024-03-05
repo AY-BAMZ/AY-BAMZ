@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi, I'm Ayobami Paul 👋
 
+FrontEnd Developer || Mobile App Developer || React JS || Next JS || React Native Developer || Mobile App || iOS || Android || TypeScript 
 <!--
 **AY-BAMZ/AY-BAMZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
