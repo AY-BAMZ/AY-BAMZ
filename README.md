@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Ayobami Paul</h1>
-<h3 align="center">FrontEnd Developer || Mobile App Developer || React JS || Next JS || React Native Developer || Swift || Mobile App || iOS Developer || Android || TypeScript</h3>
+<h3 align="center">FullStack Developer || Mobile App Developer || React JS || Next JS || React Native Developer || Swift || Node JS || MERN || iOS Developer || Android || TypeScript</h3>
 <h2 align="left"></h2>
 
 ###
